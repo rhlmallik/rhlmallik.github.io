@@ -1,3 +1,13 @@
 title: Webpage of Rahul Mallik
 description: This is to document the various projects that I am currently working on.
 github_username: rhlmallik
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
